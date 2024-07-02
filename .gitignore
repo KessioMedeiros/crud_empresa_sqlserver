@@ -1,0 +1,60 @@
+# Arquivos de compilação gerados
+bin/
+obj/
+
+# Arquivos temporários gerados pelo Visual Studio
+.vs/
+
+# Arquivos de dependência NuGet
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Arquivos de configuração do Visual Studio
+*.user
+*.suo
+*.sln.docstates
+*.vsconfig
+
+# Logs e arquivos de exceção
+*.log
+*.vspscc
+*.vssscc
+buildlog.*
+
+# Arquivos de compilação
+*.dll
+*.exe
+
+# Cache de ferramentas
+*.vscode/
+.vscode/
+.nuget/
+
+# Outros arquivos que geralmente não devem ser versionados
+*.bak
+*.cache
+*.pdb
+*.ide
+
+# Arquivos de saída de teste
+[Tt]est[Rr]esult*/
+*.trx
+
+# Arquivos de publicação
+publish/
+
+# Ferramentas de desenvolvimento
+_ReSharper*/
+*.resharper
+*.sln.ide
+
+# Arquivos de análise
+*.sln.ide
+
+# Rastro de desempenho
+*.psess
+
+# Tipos de arquivos que devem ser ignorados por editores de texto
+*.vscode
+*.vssscc
